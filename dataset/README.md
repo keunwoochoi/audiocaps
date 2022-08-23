@@ -18,3 +18,11 @@ There are 4 columns in the csv file.
 
 
 Last edit: May 30, 2019
+
+----------
+
+EDIT by Keunwoo
+
+- Added columns from official google metadata - start_seconds, end_seconds, positive_labels
+- Added a column: google_official_split (either train or eval)
+
